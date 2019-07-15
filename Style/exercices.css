@@ -1,0 +1,43 @@
+body.exercicio {
+    grid-template-rows: 120px 60px 1fr 60px;
+    grid-template-areas: "header" "navegation" "principal" "footer";
+}
+
+.principal {
+    height: calc(100vh - 240px);
+}
+
+.navegation {
+    grid-area: navegation;
+    display: flex;
+    justify-content: flex-start space-around;
+    align-items: center;
+    background-color: #555;
+}
+
+.navegation>a {
+    text-decoration: none;
+    color: #ffff;
+    font-weight: 300;
+    font-size: 1.3rem;
+    background-color: #6e182c;
+    padding: 5px 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.navegation>a:hover {
+    background-color: #01633d;
+}
+
+.assets {
+    font-size: 2rem;
+}
+
+.assets>.titulo {
+    font-size: 2.5rem;
+    font-weight: 300;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #999;
+    margin-bottom: 20px;
+}
