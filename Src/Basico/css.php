@@ -21,7 +21,7 @@
         background-color: #6e182c;
         color:#fff;
         font-weight: bold;
-        border-radius: 10px;
+        border-radius: 7px;
         transition:1s;
     }
     button:hover{
