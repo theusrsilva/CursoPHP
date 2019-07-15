@@ -15,7 +15,7 @@
         <h2>Visualização do exercício</h2>
     </header>
     <nav class="navegation">
-            <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php"?> >Sem formatação</a>
+            <a href= <?= "{$_GET['src']}/{$_GET['dir']}/{$_GET['file']}.php"?> >Sem formatação</a>
             <a href="index.php">Voltar</a>
 
     </nav>
@@ -23,7 +23,7 @@
         
         <div class="assets">
             <?php
-                include(__DIR__ . "/{$_GET['src']}/{$_GET['dir']}/{$_GET['file']}.php");
+                include("{$_GET['src']}/{$_GET['dir']}/{$_GET['file']}.php");
                 
             ?>
             
