@@ -26,6 +26,14 @@
                         <li><a href="exercices.php?src=Src&dir=Basico&file=desafio">Desafio 1</a></li>
                         </ul>
                 </div>
+                <div class="modulo">
+                    <h3>Módulo - 02</h3>
+                    <ul>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=int">Inteiros</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=float">Float</a></li>
+
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>

@@ -15,7 +15,7 @@
         <h2>Visualização do exercício</h2>
     </header>
     <nav class="navegation">
-            <a href= <?= "{$_GET['src']}/{$_GET['dir']}/{$_GET['file']}.php"?> >Sem formatação</a>
+            <a href=<?php echo "{$_GET['src']}/{$_GET['dir']}/{$_GET['file']}.php"?>>Sem formatação</a>
             <a href="index.php">Voltar</a>
 
     </nav>
