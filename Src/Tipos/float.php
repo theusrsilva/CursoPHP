@@ -9,3 +9,4 @@
     echo '<br>';
     echo PHP_FLOAT_MAX, '<br>';
     echo PHP_FLOAT_MIN, '<br>';
+    echo 13E-3;

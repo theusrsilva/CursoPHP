@@ -31,6 +31,11 @@
                     <ul>
                         <li><a href="exercices.php?src=Src&dir=Tipos&file=int">Inteiros</a></li>
                         <li><a href="exercices.php?src=Src&dir=Tipos&file=float">Float</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=aritmeticos">Operações aritmeticas</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=desafio_precedencia">Desafio precedencia</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=string">Tipo string</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=desafio_string">Desafio string</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=boolean">Tipo Boolean</a></li>
 
                     </ul>
                 </div>
