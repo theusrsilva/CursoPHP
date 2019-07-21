@@ -36,6 +36,7 @@
                         <li><a href="exercices.php?src=Src&dir=Tipos&file=string">Tipo string</a></li>
                         <li><a href="exercices.php?src=Src&dir=Tipos&file=desafio_string">Desafio string</a></li>
                         <li><a href="exercices.php?src=Src&dir=Tipos&file=boolean">Tipo Boolean</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Tipos&file=conversao">Conversões</a></li>
 
                     </ul>
                 </div>
