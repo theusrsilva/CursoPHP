@@ -14,7 +14,7 @@ body {
 
 .header {
     grid-area: header;
-    background-color: #6e182c;
+    background-color: #01633d;
     color: #fff;
     display: flex;
     flex-direction: column;
@@ -76,7 +76,7 @@ body {
     margin-bottom: 20px;
     border: 2px solid;
     border-radius: 8px;
-    border-color: #01633d;
+    border-color: #6e182c;
 }
 
 .modulo>h3 {
@@ -85,7 +85,7 @@ body {
     font-weight: 300;
     font-size: 1.5rem;
     padding: 10px 20px;
-    background-color: #01633d;
+    background-color:#6e182c; 
     display: flex;
     justify-content: center;
 }

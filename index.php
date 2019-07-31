@@ -40,6 +40,19 @@
 
                     </ul>
                 </div>
+                <div class="modulo">
+                    <h3>Módulo - 03</h3>
+                    <ul>
+                        <li><a href="exercices.php?src=Src&dir=Variaveis&file=start">Start</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Variaveis&file=desafio_equacao">Desafio Equação</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Variaveis&file=atribuicoes">Atribuições</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Variaveis&file=interpolacao">Interpolações</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Variaveis&file=variaveis_variaveis">Variáveis Variáveis</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Variaveis&file=referencia">Referências</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Variaveis&file=constantes">Constantes</a></li>
+                        
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
