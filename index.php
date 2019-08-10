@@ -53,6 +53,15 @@
                         
                     </ul>
                 </div>
+                <div class="modulo">
+                    <h3>Módulo - 04</h3>
+                    <ul>
+                        <li><a href="exercices.php?src=Src&dir=controles&file=if_else">If & Else</a></li>
+                        <li><a href="exercices.php?src=Src&dir=controles&file=operadores_relacionais">Operadores Relacionais</a></li>
+                       
+                        
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
