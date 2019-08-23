@@ -56,8 +56,17 @@
                 <div class="modulo">
                     <h3>Módulo - 04</h3>
                     <ul>
-                        <li><a href="exercices.php?src=Src&dir=controles&file=if_else">If & Else</a></li>
-                        <li><a href="exercices.php?src=Src&dir=controles&file=operadores_relacionais">Operadores Relacionais</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Controles&file=if_else">If & Else</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Controles&file=operadores_relacionais">Operadores Relacionais</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Controles&file=post">$_Post</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Controles&file=ternario">Operadores Ternários</a></li>
+                        <li><a href="exercices.php?src=Src&dir=Controles&file=switch">Switch</a></li>        
+                    </ul>
+                </div>
+                <div class="modulo">
+                    <h3>Módulo - 05</h3>
+                    <ul>
+                        <li><a href="exercices.php?src=Src&dir=Array&file=array_basico">Array Básico</a></li>
                        
                         
                     </ul>
